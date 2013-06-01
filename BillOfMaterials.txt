@@ -1,0 +1,22 @@
+Bill Of Materials
+
+**TAKE CARE WHEN WORKING WITH HIGH VOLTAGES**
+**MORE INFO HERE:http://electriciantraining.tpub.com/14176/css/14176_112.htm
+
+Arduino - $29 - https://www.sparkfun.com/products/11021
+Serial LCD - $24.95 - https://www.sparkfun.com/products/9393
+DS1307 Real-time Clock Module - $14.95 - https://www.sparkfun.com/products/99
+4X PowerSwitch Tail II - $115.80 @ $28.95/ea. - https://www.sparkfun.com/products/10747
+SHT15 Temperature & Humidity Sensor Breakout - $41.95 - https://www.sparkfun.com/products/8257
+MicroSD Breakout Board - $9.95 - https://www.sparkfun.com/products/544
+Beefcake Relay Control Kit - $7.95 - https://www.sparkfun.com/products/11042
+1GB SD Card - $5 - Walmart
+USB Cable - $5 - Walmart
+Power outlet - $5 - Home Depot
+Breadboard - $9.95 - https://www.sparkfun.com/products/112
+Wires, Soldering Iron, etc...
+
+Estimated Cost: $269.50
+
+You can save $84 by using 4 more Beefcake Relays instead of PowerSwitch Tails but at a cost in safety and
+ease of use, bringing the total to: ~$185.50 which is much cheaper than alternatives (=
