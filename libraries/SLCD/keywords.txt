@@ -1,0 +1,44 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SLCD	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+doSomething	KEYWORD2
+
+init KEYWORD2      
+brightness KEYWORD2   
+flash KEYWORD2 
+
+print KEYWORD2   
+print KEYWORD2
+vscroll KEYWORD2  
+
+clear KEYWORD2  
+cursor KEYWORD2
+cursorLeft KEYWORD2
+cursorRight KEYWORD2
+underlineCursorOn KEYWORD2
+underlineCursorOff KEYWORD2
+blinkCursorOn KEYWORD2
+blinkCursorOff KEYWORD2
+displayOn KEYWORD2
+displayOff KEYWORD2         
+
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
